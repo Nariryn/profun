@@ -1,0 +1,20 @@
+Player Name: nick
+Player Level: 10000
+Player Score: 1
+---------------------------------
+Player Name: tea
+Player Level: 999999
+Player Score: 100000000
+---------------------------------
+Player Name: alice
+Player Level: 8888
+Player Score: 88888
+---------------------------------
+Player Name: toey
+Player Level: 7777
+Player Score: 7000
+---------------------------------
+Player Name: ink
+Player Level: 90009
+Player Score: 99999
+---------------------------------
